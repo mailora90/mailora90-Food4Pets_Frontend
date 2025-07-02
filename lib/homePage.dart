@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:food4pets/hometab.dart';
 import 'package:food4pets/loginpage.dart';
-import 'package:food4pets/profile.dart';
 import 'package:food4pets/profileTab.dart';
 import 'package:food4pets/settings.dart';
 
