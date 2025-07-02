@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 
 class Profiletab extends StatefulWidget {
-  const Profiletab({Key? key}) : super(key: key);
+  const Profiletab({super.key});
 
   @override
   State<Profiletab> createState() => _ProfilePageState();
